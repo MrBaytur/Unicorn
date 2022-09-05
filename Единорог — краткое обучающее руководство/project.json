@@ -1,6 +1,6 @@
 {
-  "name": "Единорог — краткое обучающее руководство",
-  "description": "Quick Tutorial",
+  "name": "Единорог",
+  "description": "Unicorn project",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[22.4.4]",
